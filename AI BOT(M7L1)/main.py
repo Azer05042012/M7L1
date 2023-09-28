@@ -32,4 +32,4 @@ async def check(ctx):
         await ctx.send('Вы забыли загрузить картину :(')
 
 
-bot.run("MTE1NDM1NjgzMzMxNDY3MjY3MA.G2iUSg.oSFq-iOsxYoZvNGUAvVXQWqvKRuDvA5ZdCDx4s")
+bot.run("")
